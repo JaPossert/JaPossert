@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @JaPossert
+### Jakob Possert
 
-- 👀 I’m interested in Information Processing Systems, like Tana.
-- 🌱 I’m currently learning how to work with coders as a non-coder systems architect
-- 💞️ I’m looking to collaborate on integrating information storage systems from Calendars and Note-taking Apps to Messaging Services.
+Systems architect building sovereignty infrastructure in Vienna.
 
-My (coding) principles:
-- I contribute to code that has a pathway to sovereignity, meaning 
-  - for code (or at least the UI) to be editable by the user 
-  - for the data to be private, preferrably encrypted, and always downloadable free of charge (and to be accessible by an open-source or free-ware = no inaccessible data)
+**[EvoBioSys](https://evobiosys.org)** — a living network of 48 project holons across three pillars: growing (Evo), living (Bio), and systems (Sys).
+
+Currently building:
+- **[kidur](https://kidur.org)** — foundational tech binding structure
+- **[QuestHub](https://questhub.eco)** — quest-based collaboration platform
+- **SilkNotes** — interoperating knowledge silos
+- **OpenClaw** — sovereign AI infrastructure on personal VPS
+
+Principles:
+- Privacy-first, EU sovereign, local over cloud for sensitive data
+- Code sovereignty: editable by the user, data always downloadable
+- Self-hosted preferred, open-source always
+- AI as implementation layer, humans as source keepers
+
+Non-coder systems architect working with AI. Minerva alum. INFJ.
+
+[evobiosys.org](https://evobiosys.org) · [questhub.eco](https://questhub.eco)
